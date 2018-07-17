@@ -13,7 +13,7 @@ class Footer extends React.Component {
                 <p>Contact me: {this.props.email}</p>
           <br />
 
-          <p>This site is built with React.js and is hosted on GitHub pages. <a href="https://open.spotify.com/user/1163697803/playlist/3RgPhbIIJSCaErT7qaYkTo?si=ERbHVL2FTLGmDpN7tewDsg">🎵</a></p>
+    <p>This site is made with React.js on GitHub pages. <a href="https://open.spotify.com/user/1163697803/playlist/3RgPhbIIJSCaErT7qaYkTo?si=ERbHVL2FTLGmDpN7tewDsg">🎵</a></p>
           </footer>
     );
   }
